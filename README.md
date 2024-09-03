@@ -1,6 +1,6 @@
 # clubjam - Your sheet music easily organized!
 With the clubjam app, your can finally organize your sheet music the way it deserves!
-We help solo musicians, bands, ensembles and orchestras to organize your sheet music archive. With innovative functionality, an intuitive, fun UI/UX and much love from musicians to musicians we created a new form of sheet music management. By keeping an eye on both physical and digital music archives, we provide all the tools you need for managing your sheet music archive efficiently and intuitively.
+We help all you solo musicians, bands, ensembles and orchestras to organize your sheet music archive. With innovative functionality, an intuitive, fun UI/UX and much love from musicians to musicians we created a new form of sheet music management. By keeping an eye on both physical and digital music archives, we provide all the tools you need for managing your sheet music archive efficiently and intuitively.
 
 ## With much love for physical sheet music ...
 While many applications just focus on digitalizing sheet music, we at clubjam are aware that many musicians still prefer to have their music notes physically, the old-fashioned way. With that in mind, using a clever QR code system, we invented an intuitive way to organize your physical music note archive effectively and quickly.
