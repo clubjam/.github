@@ -1,2 +1,2 @@
-# .github
-clubjam - organize your sheet music the way it deserves!
+# clubjam
+With clubjam, your can finally organize your sheet music the way it deserves!
